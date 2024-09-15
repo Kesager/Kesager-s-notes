@@ -9,7 +9,6 @@ export const include = ['笔记']
 /** Repo */
 export const githubRepoLink = 'https://github.com/kesager'
 
-
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'sager.eu.org'
 /** 完整域名 */
