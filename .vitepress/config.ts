@@ -110,7 +110,8 @@ export default defineConfig({
       {
         rel: 'mask-icon',
         href: '/safari-pinned-tab.svg',
-        color: '#927baf',
+        color: '#84a17e',
+        
       },
     ],
     ['link', {
@@ -119,7 +120,7 @@ export default defineConfig({
     }],
     ['meta', {
       name: 'msapplication-TileColor',
-      content: '#603cba',
+      content: '#63862c',
     }],
     // Proxying Plausible through Netlify | Plausible docs
     // https://plausible.io/docs/proxy/guides/netlify

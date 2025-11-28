@@ -29,7 +29,7 @@ export const creators: Creator[] = [
       { type: 'github', icon: 'github', link: 'https://github.com/Kesager' },
     ],
     nameAliases: ['Kesager', 'Kevinkesager', 'Keisager', '凯文·切萨利'],
-    emailAliases: ['lji@ayaka.my'],
+    emailAliases: ['lji@outlook.my'],
   },
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrl(c.username)

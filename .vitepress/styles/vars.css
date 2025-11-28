@@ -27,17 +27,17 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-c-sky-1: #3c96ca;
-  --vp-c-sky-2: #49a1d4;
-  --vp-c-sky-3: #49a1d4;
-  --vp-c-sky-soft: rgba(73, 161, 212, 0.84);
+  --vp-c-sky-1: #74985d;
+  --vp-c-sky-2: #5e8027;
+  --vp-c-sky-3: #5e8027;
+  --vp-c-sky-soft: rgba(128, 212, 73, 0.84);
 }
 
 .dark {
-  --vp-c-sky-1: #49a3d7;
-  --vp-c-sky-2: #58b1e5;
-  --vp-c-sky-3: #58b1e5;
-  --vp-c-sky-soft: #58b1e5;
+  --vp-c-sky-1: #c6eb33;
+  --vp-c-sky-2: #9db616;
+  --vp-c-sky-3: #9db616;
+  --vp-c-sky-soft: #d7e592;
 }
 
 /**
@@ -77,13 +77,13 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #8d6fc7 40%,
-    #4fc4d8
+    #7ec76f 40%,
+    #65899d
   );
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    #8d73bf90 30%,
-    #d6c0e890
+    #76bf7390 30%,
+    #c9e8c090
   );
   --vp-home-hero-image-filter: blur(30px);
 }
@@ -111,8 +111,8 @@
 
 .dark:root {
   /* 配置一下在暗色模式下 tips 的自定义块的颜色为非默认的产品色，避免与文字不兼容导致可读性下降 */
-  --vp-custom-block-tip-bg: #02474e;
-  --vp-custom-block-tip-code-bg: #0d1e1e9c;
+  --vp-custom-block-tip-bg: #024e2e;
+  --vp-custom-block-tip-code-bg: #0d1e0e9c;
 }
 
 :root {
@@ -132,7 +132,7 @@
 }
 .heimu:hover a, a:hover .heimu,
 .heimu:active a, a:active .heimu {
-  color: lightblue !important;
+  color: lightgreen !important;
 }
 .heimu:hover .new, .heimu .new:hover, .new:hover .heimu,
 .heimu:active .new, .heimu .new:active, .new:active .heimu {
