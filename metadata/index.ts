@@ -1,7 +1,7 @@
 /** 文本 */
 export const siteName = 'Kesager 的知识笔记'
-export const siteShortName = 'Kesager’s notebook'
-export const siteDescription = '记录知识的地方'
+export const siteShortName = 'KeNote'
+export const siteDescription = '一个记录知识的地方'
 
 /** 文档所在目录 */
 export const include = ['笔记']

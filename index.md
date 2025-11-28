@@ -6,7 +6,7 @@ title: Kesager's notebook
 titleTemplate: 仅仅只是记录知识的地方
 
 hero:
-  name: hello
+  name: Ke's Note
   text: 仅仅只是记录知识的地方
   tagline: 你好，欢迎来到本站，这里是一个废物的知识库
   image:
