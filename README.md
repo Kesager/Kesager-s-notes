@@ -11,7 +11,7 @@
 
 
 ## 使用
-需要 Nodejs / pnpm
+需要 Node.js 24+ / pnpm 10
 
 ```bash
 pnpm install # 安装
@@ -67,4 +67,3 @@ giscus 利用了 [GitHub Discussions](https://docs.github.com/en/discussions) 
 - https://github.com/oleeskild/obsidian-digital-garden
 - https://github.com/ObsidianPublisher/obsidian-github-publisher
 - https://github.com/alangrainger/share-note
-
